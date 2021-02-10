@@ -1,0 +1,68 @@
+body{
+    background-color:#fafafa;
+}
+.container{
+    height: 576;
+    width: 800;
+}
+.logo{
+    height: 64;
+    width: 176;
+}
+.store{
+    height: 40;
+    width: 136;
+}
+.mainimg{
+    height: 562;
+    width: 404;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+
+}
+h6{
+    text-align: center;
+}
+.inp{
+    width: 268;
+    height: 38;
+    background-color: #fafafa;
+}
+button{
+    width: 268;
+    height: 30;
+    background-color: #b2dffc;
+    
+}
+button:focus {
+    outline: none;
+}
+fieldset{
+    background-color: rgb(255, 255, 255);
+}
+.position{
+    position: relative;
+    margin-left: 400;
+    margin-right: 0;
+    margin-top: 50;
+    margin-bottom: 50;
+
+}
+a{
+    text-decoration: none; 
+    color: #8e8e8e;
+}
+TD, TH {
+    padding: 0; 
+    border: 0; 
+   }
+select {
+    border: none;
+  }
